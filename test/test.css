@@ -1,0 +1,13 @@
+body{
+    background: rgb(222, 222, 255);
+}
+
+p{
+    font-size: 3rem;
+}
+
+.test1{
+    border: 3px solid black;
+    height: 600px;
+
+}
